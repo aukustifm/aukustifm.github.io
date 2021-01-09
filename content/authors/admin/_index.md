@@ -6,7 +6,7 @@ title: Augusto Magalhães
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Research assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,9 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MSc in Mathematical Sciences
     institution: Osaka University
     year: 2020
@@ -70,8 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research assistant at the School of Chemical Engineering, Aalto University. My research field interests include mathematical sciences, Bayesian statistics and machine learning, with applications to stochastic modelling of renewable energy and biological systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am very interested in programming, but science has been always full of surprises for me and I have always welcomed exploring options during both my Bachelor's and Master's. Some of the options were drilling of geothermal wells, thermal solar systems, predictive modelling for  wind turbines and most recently applications of Piecewise Deterministic Markov Chain Monte Carlo methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
