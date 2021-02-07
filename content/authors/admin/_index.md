@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: MSc in Mathematical Sciences
-    institution: Osaka University
+    institution: 
     year: 2020
   - course: BEng in Renewable Energy 
-    institution: Universidade Federal do Ceará / Tohoku University
+    institution:
     year: 2017
 
 # Social/Academic Networking
@@ -49,9 +49,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/augustomagalhaes
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/magalhaes4ugusto/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,5 +67,3 @@ highlight_name: false
 I am a research assistant at the School of Chemical Engineering, Aalto University. My research field interests include mathematical sciences, Bayesian statistics and machine learning, with applications to stochastic modelling of renewable energy and biological systems. 
 
 I am very interested in programming, but science has been always full of surprises for me and I have always welcomed exploring options during both my Bachelor's and Master's. Some of the options were drilling of geothermal wells, thermal solar systems, predictive modelling for  wind turbines and most recently applications of Piecewise Deterministic Markov Chain Monte Carlo methods.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

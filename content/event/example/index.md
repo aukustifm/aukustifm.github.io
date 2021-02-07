@@ -6,8 +6,8 @@ event_url: https://example.org
 
 location: Wowchemy HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Kemistintie 1
+  city: Espoo
   region: CA
   postcode: '94305'
   country: United States

@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist 
     company: Delfos IM
     company_url: ''
-    location: Fortaleza
+    location:
     date_start: '2017-01-01'
     date_end: '2020-12-01'
     description: |2-
@@ -37,7 +37,7 @@ experience:
   - title: ESL Professor
     company: Wizard 
     company_url: ''
-    location: Fortaleza
+    location:
     date_start: '2016-01-01'
     date_end: '2016-06-01'
     description: Taught English as second language
