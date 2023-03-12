@@ -6,7 +6,7 @@ title: Augusto Magalhães
 superuser: true
 
 # Role/position/tagline
-role: Research assistant
+role: Doctoral candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,6 @@ bio: My research interests include Bayesian statistics, Monte Carlo methods, Mac
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Statistics
 - Renewable Energy
 
@@ -26,10 +25,10 @@ interests:
 education:
   courses:
   - course: MSc in Mathematical Sciences
-    institution: 
+    institution: Osaka University
     year: 2020
   - course: BEng in Renewable Energy 
-    institution:
+    institution: Universidade Federal do Ceará
     year: 2017
 
 # Social/Academic Networking
@@ -42,14 +41,14 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/gusfmagalhaes
+  link: https://twitter.com/oogasutofm
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/augustomagalhaes
-
+  link: https://github.com/aukustifm
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -64,6 +63,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a research assistant at the School of Chemical Engineering, Aalto University. My research field interests include mathematical sciences, Bayesian statistics and machine learning, with applications to stochastic modelling of renewable energy and biological systems. 
+I am a 2nd-year doctoral candidate at the School of Chemical Engineering, Aalto University. My research field interests include mathematical sciences and Bayesian statistics, with applications to stochastic modelling of renewable energy and biological systems. 
 
-I am very interested in programming, but science has been always full of surprises for me and I have always welcomed exploring options during both my Bachelor's and Master's. Some of the options were drilling of geothermal wells, thermal solar systems, predictive modelling for  wind turbines and most recently applications of Piecewise Deterministic Markov Chain Monte Carlo methods.
+I am very interested in programming, but science has been always full of surprises for me and I have always welcomed exploring options during both my Bachelor's and Master's. Some of the options were drilling of geothermal wells, thermal solar systems, predictive modelling for wind turbines and, most recently, applications of Piecewise Deterministic Markov Chain Monte Carlo methods.
