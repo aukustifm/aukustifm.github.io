@@ -19,7 +19,7 @@ bio: My research interests include Bayesian statistics, Monte Carlo methods, Mac
 # Interests to show in About widget
 interests:
 - Statistics
-- Renewable Energy
+- Dynamic systems
 
 # Education to show in About widget
 education:
@@ -57,12 +57,37 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "augusto(dot)fontenele(at)outlook(dot)com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am a 2nd-year doctoral candidate at the School of Chemical Engineering, Aalto University. My research field interests include mathematical sciences and Bayesian statistics, with applications to stochastic modelling of renewable energy and biological systems. 
+I am a doctoral candidate at the School of Chemical Engineering, Aalto University. My research focuses on mathematical sciences and Bayesian statistics, with applications to large-scale dynamic systems. My PhD work particularly explores the use of Particle Filters for state-estimating these systems.
 
-I am very interested in programming, but science has been always full of surprises for me and I have always welcomed exploring options during both my Bachelor's and Master's. Some of the options were drilling of geothermal wells, thermal solar systems, predictive modelling for wind turbines and, most recently, applications of Piecewise Deterministic Markov Chain Monte Carlo methods.
+I have a strong interest in programming, and science has continually offered me surprising opportunities. Throughout my Bachelor's and Master's studies, I explored diverse fields such as geothermal well drilling, thermal solar systems, predictive modelling for wind turbines, and applications involving Piecewise Deterministic Markov Chain Monte Carlo methods.
+
+
+## Publications
+
+
+1. **Gaussian Process with Logistic Mean Function for Modelling Wind Turbine PowerCurves**  
+   *Gustavo C. M. Virgolino, César L. C. Mattos, José Augusto F. Magalhães, and Guilherme A. Barreto*  
+   2020, Renewable Energy.  
+   [https://www.sciencedirect.com/science/article/abs/pii/S0960148120309150](#)
+
+2. **Pathwise approximations to solving the filtering problem for the stochastic chemostat**  
+   *José Augusto F. Magalhães, Muhammad Fuady Emzir, Francesco Corona*  
+   2025, Under submission.  
+   [https://www.biorxiv.org/content/10.1101/2023.01.17.524503v3.full](#)
+
+
+## Conference Proceedings
+
+1. **22nd IFAC World Congress**  
+   *Block particle filters for state estimation of stochastic reaction-diffusion systems*, Yokohama, Japan, 2023.
+   [https://www.sciencedirect.com/science/article/pii/S2405896323012934](#)
+
+2. **SIAM Conference on Control and Optimization (CT25)**  
+   *Sparse Spectral Methods for Approximating PDE Solutions in Particle Flow*, Montreal, Canada, 2025.
+   [https://epubs.siam.org/doi/10.1137/1.9781611978742.8](#)
