@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/aukustifm/aukustifm.github.io.git
-	branch = master
