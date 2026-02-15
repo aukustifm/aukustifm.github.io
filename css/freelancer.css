@@ -570,3 +570,45 @@ footer .footer-below {
 .navbar-collapse.in .navbar-toggle .icon-bar {
     background-color: #fff; /* stays white when open */
 }
+
+/* Move toggle to right */
+.navbar-toggle {
+    float: right;
+    margin-right: 15px;
+}
+
+
+/* Inactive state (collapsed) */
+.navbar-default .navbar-toggle.collapsed {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.navbar-default .navbar-toggle.collapsed .icon-bar {
+    background-color: black;
+}
+
+/* Active state (menu open) */
+.navbar-default .navbar-toggle:not(.collapsed) {
+    background-color: black;
+    border: 1px solid black;
+}
+
+.navbar-default .navbar-toggle:not(.collapsed) .icon-bar {
+    background-color: white;
+}
+
+img.profile-photo {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Mobile only */
+@media (max-width: 768px) {
+    img.profile-photo {
+        width: 100%;
+        max-width: 400px; /* optional limit */
+        display: block;
+        margin: 0 auto;
+    }
+}
