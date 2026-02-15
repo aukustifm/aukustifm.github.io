@@ -540,3 +540,33 @@ footer .footer-below {
 .pub-icon:hover {
     color: #555;
 }
+
+/* Navbar toggle button default */
+.navbar-toggle {
+    background-color: #000; /* black background */
+    border: 1px solid #000; /* optional: match border */
+}
+
+/* Three bars */
+.navbar-toggle .icon-bar {
+    background-color: #fff; /* white bars */
+}
+
+/* Optional: hover */
+.navbar-toggle:hover,
+.navbar-toggle:focus {
+    background-color: #111; /* slightly lighter black */
+}
+
+/* When menu is open (collapsed active) */
+.navbar-collapse.in .navbar-toggle {
+    background-color: #000; /* same black */
+}
+
+.navbar-toggle .icon-bar {
+    transition: all 0.3s;
+}
+
+.navbar-collapse.in .navbar-toggle .icon-bar {
+    background-color: #fff; /* stays white when open */
+}
