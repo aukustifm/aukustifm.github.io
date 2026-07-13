@@ -617,3 +617,20 @@ img.profile-photo {
     max-width: 100%;
     height: auto;
 }
+
+.publication-entry {
+    margin-bottom: 28px;
+    line-height: 1.6;
+}
+
+.publication-entry strong:first-child {
+    font-size: 1.08em;
+}
+
+.publication-entry a {
+    margin-right: 12px;
+}
+
+.publication-entry em {
+    color: #666;
+}
